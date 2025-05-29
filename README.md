@@ -34,31 +34,29 @@ multiple-choice quizzes with instant feedback.
 <table>
   <tr>
     <td align="center">
-      <img src="assets/screens/quiz_list.png" width="150" /><br>
+      <img src="assets/screens/quiz_list.png" width="120" /><br>
       Quiz List
     </td>
     <td align="center">
-      <img src="assets/screens/video_player.png" width="150" /><br>
+      <img src="assets/screens/video_player.png" width="120" /><br>
       Video Player
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="assets/screens/start.png" width="150" /><br>
+      <img src="assets/screens/start.png" width="120" /><br>
       Start Quiz
     </td>
-    <td align="center">
-      <img src="assets/screens/results.png" width="150" /><br>
-      Results
-    </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/screens/quiz-correct.png" width="150" /><br>
+      <img src="assets/screens/results.png" width="120" /><br>
+      Results
+    </td>
+    <td align="center">
+      <img src="assets/screens/quiz-correct.png" width="120" /><br>
       Quiz Correct
     </td>
     <td align="center">
-      <img src="assets/screens/quiz_false.png" width="150" /><br>
+      <img src="assets/screens/quiz_false.png" width="120" /><br>
       Quiz Incorrect
     </td>
   </tr>
