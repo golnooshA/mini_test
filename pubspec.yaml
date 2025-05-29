@@ -1,0 +1,25 @@
+# pubspec.yaml
+name: min_test
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  video_player: ^2.9.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/quizzes.json
+    - assets/videos/    # includes all MP4s under this dir

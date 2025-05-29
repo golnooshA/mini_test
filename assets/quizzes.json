@@ -1,0 +1,478 @@
+{
+  "quizzes": [
+    {
+      "id": "football_laws_rules",
+      "title": "Football Laws & Rules",
+      "duration": "5 min",
+      "video": "assets/videos/video_1.mp4",
+      "photo": "https://img.freepik.com/free-photo/football-concept-composition_23-2147832074.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "When is a direct free kick awarded?",
+          "options": {
+            "A": "For a goalkeeper holding the ball more than 6 seconds",
+            "B": "For offside",
+            "C": "For a handball by an outfield player",
+            "D": "For dangerous play without contact"
+          },
+          "correctAnswer": "C",
+          "explanation": "Handball is a direct free-kick offense; dangerous play without contact is an indirect free kick, and offside is also indirect."
+        },
+        {
+          "id": "q2",
+          "prompt": "What’s the minimum duration of a halftime interval in a standard 90-minute match?",
+          "options": {
+            "A": "10 minutes",
+            "B": "12 minutes",
+            "C": "15 minutes",
+            "D": "20 minutes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Law 7 sets halftime at “not more than 15 minutes” (but not less than 15 in standard competitions)."
+        },
+        {
+          "id": "q3",
+          "prompt": "If the ball hits the referee and goes directly to a goal, what’s the restart?",
+          "options": {
+            "A": "Goal awarded",
+            "B": "Goal kick",
+            "C": "Indirect free kick to defending team",
+            "D": "Dropped ball"
+          },
+          "correctAnswer": "D",
+          "explanation": "Since 2019, play stops and restarts with a dropped ball when the ball strikes the referee and one team immediately gains an advantage."
+        }
+      ]
+    },
+    {
+      "id": "passing_receiving",
+      "title": "Passing & Receiving",
+      "duration": "10 min",
+      "video": "assets/videos/video_2.mp4",
+      "photo": "https://img.freepik.com/free-photo/football-player-shooting_23-2147813201.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "What’s the most effective body part to cushion a high, lofted pass?",
+          "options": {
+            "A": "Chest",
+            "B": "Head",
+            "C": "Thigh",
+            "D": "Foot"
+          },
+          "correctAnswer": "A",
+          "explanation": "Using the chest allows you to absorb force and bring the ball down under control."
+        },
+        {
+          "id": "q2",
+          "prompt": "When passing at speed, which technique improves accuracy?",
+          "options": {
+            "A": "Standing on your toes",
+            "B": "Locking your ankle and foot",
+            "C": "Swinging your arm back",
+            "D": "Pointing your non-kicking foot away from target"
+          },
+          "correctAnswer": "B",
+          "explanation": "A firm, locked ankle gives a flat striking surface for a more accurate pass."
+        },
+        {
+          "id": "q3",
+          "prompt": "In a one-two (“wall pass”), after your first pass you should…",
+          "options": {
+            "A": "Stay stationary",
+            "B": "Run behind the defender",
+            "C": "Run forward into space",
+            "D": "Turn back toward the ball"
+          },
+          "correctAnswer": "C",
+          "explanation": "You “give and go,” creating separation from a defender to receive the return."
+        }
+      ]
+    },
+    {
+      "id": "dribbling_ball_control",
+      "title": "Dribbling & Ball Control",
+      "duration": "10 min",
+      "video": "assets/videos/video_1.mp4",
+      "photo": "https://img.freepik.com/free-photo/happy-football-player-training_23-2147813182.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which move is best for quickly changing direction?",
+          "options": {
+            "A": "Cruyff turn",
+            "B": "Step-over",
+            "C": "Drag back",
+            "D": "Elastico"
+          },
+          "correctAnswer": "C",
+          "explanation": "A drag back (pulling the ball behind your standing foot and turning) is compact and sudden."
+        },
+        {
+          "id": "q2",
+          "prompt": "What’s the main purpose of close-control dribbling?",
+          "options": {
+            "A": "To sprint past opponents",
+            "B": "To make powerful shots",
+            "C": "To maintain possession in tight spaces",
+            "D": "To keep defenders guessing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Close touches help you navigate crowded areas without losing the ball."
+        },
+        {
+          "id": "q3",
+          "prompt": "When performing an inside-outside dribble, you use the…",
+          "options": {
+            "A": "Inside of the foot, then sole",
+            "B": "Inside of the foot, then outside of the same foot",
+            "C": "Outside of the foot, then inside of the other foot",
+            "D": "Sole, then outside of the foot"
+          },
+          "correctAnswer": "B",
+          "explanation": "The inside-outside feints shift the ball laterally to wrong-foot the defender."
+        },
+        {
+          "id": "q4",
+          "prompt": "When performing an inside-outside dribble, you use the…",
+          "options": {
+            "A": "Inside of the foot, then sole",
+            "B": "Inside of the foot, then outside of the same foot",
+            "C": "Outside of the foot, then inside of the other foot",
+            "D": "Sole, then outside of the foot"
+          },
+          "correctAnswer": "B",
+          "explanation": "The inside-outside feints shift the ball laterally to wrong-foot the defender."
+        }
+      ]
+    },
+    {
+      "id": "tactical_awareness",
+      "title": "Tactical Awareness",
+      "duration": "10 min",
+      "video": "assets/videos/video_2.mp4",
+      "photo": "https://img.freepik.com/free-photo/close-up-team-discussing-strategy_23-2148634565.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "What is “zonal marking”?",
+          "options": {
+            "A": "Each defender marks one opponent",
+            "B": "Defenders cover designated areas",
+            "C": "Midfielders stay in their half",
+            "D": "Strikers track back to defend"
+          },
+          "correctAnswer": "B",
+          "explanation": "Instead of man-marking, players guard zones and pick up attackers entering them."
+        },
+        {
+          "id": "q2",
+          "prompt": "In a 4-3-3 formation, the “6” role usually refers to…",
+          "options": {
+            "A": "Central striker",
+            "B": "Defensive midfielder",
+            "C": "Left winger",
+            "D": "Right center-back"
+          },
+          "correctAnswer": "B",
+          "explanation": "The single pivot (“number 6”) shields the back four and recycles possession."
+        },
+        {
+          "id": "q3",
+          "prompt": "Why might a coach use an asymmetric formation?",
+          "options": {
+            "A": "To confuse referees",
+            "B": "To strengthen an overload on one flank",
+            "C": "To save energy",
+            "D": "To increase speed down the center"
+          },
+          "correctAnswer": "B",
+          "explanation": "Asymmetry can create 2-v-1 or 3-v-2 situations on one side."
+        }
+      ]
+    },
+    {
+      "id": "physical_fitness",
+      "title": "Physical Fitness & Conditioning",
+      "duration": "10 min",
+      "video": "assets/videos/video_1.mp4",
+      "photo": "https://img.freepik.com/free-photo/full-shot-kid-training-football_23-2149270946.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which drill best develops anaerobic endurance?",
+          "options": {
+            "A": "5-minute jog",
+            "B": "100-meter sprints with 30s rest",
+            "C": "Continuous passing rondo",
+            "D": "Stretching routine"
+          },
+          "correctAnswer": "B",
+          "explanation": "Short, intense efforts with brief recovery tax the anaerobic system."
+        },
+        {
+          "id": "q2",
+          "prompt": "What’s the ideal recovery time between maximal sprint efforts in training?",
+          "options": {
+            "A": "15 seconds",
+            "B": "30–60 seconds",
+            "C": "3–5 minutes",
+            "D": "10 minutes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Full recovery restores phosphocreatine, enabling repeated maximal efforts."
+        },
+        {
+          "id": "q3",
+          "prompt": "Which component is NOT part of a dynamic warm-up?",
+          "options": {
+            "A": "Leg swings",
+            "B": "High knees",
+            "C": "Static hamstring stretch held 30s",
+            "D": "Walking lunges"
+          },
+          "correctAnswer": "C",
+          "explanation": "Long static stretches can reduce muscle power; dynamic mobility is preferred pre-game."
+        }
+      ]
+    },
+    {
+      "id": "football_laws_rules",
+      "title": "Football Laws & Rules",
+      "duration": "5 min",
+      "video": "assets/videos/video_1.mp4",
+      "photo": "https://img.freepik.com/free-photo/football-concept-composition_23-2147832074.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "When is a direct free kick awarded?",
+          "options": {
+            "A": "For a goalkeeper holding the ball more than 6 seconds",
+            "B": "For offside",
+            "C": "For a handball by an outfield player",
+            "D": "For dangerous play without contact"
+          },
+          "correctAnswer": "C",
+          "explanation": "Handball is a direct free-kick offense; dangerous play without contact is an indirect free kick, and offside is also indirect."
+        },
+        {
+          "id": "q2",
+          "prompt": "What’s the minimum duration of a halftime interval in a standard 90-minute match?",
+          "options": {
+            "A": "10 minutes",
+            "B": "12 minutes",
+            "C": "15 minutes",
+            "D": "20 minutes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Law 7 sets halftime at “not more than 15 minutes” (but not less than 15 in standard competitions)."
+        },
+        {
+          "id": "q3",
+          "prompt": "If the ball hits the referee and goes directly to a goal, what’s the restart?",
+          "options": {
+            "A": "Goal awarded",
+            "B": "Goal kick",
+            "C": "Indirect free kick to defending team",
+            "D": "Dropped ball"
+          },
+          "correctAnswer": "D",
+          "explanation": "Since 2019, play stops and restarts with a dropped ball when the ball strikes the referee and one team immediately gains an advantage."
+        }
+      ]
+    },
+    {
+      "id": "passing_receiving",
+      "title": "Passing & Receiving",
+      "duration": "10 min",
+      "video": "assets/videos/video_2.mp4",
+      "photo": "https://img.freepik.com/free-photo/football-player-shooting_23-2147813201.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "What’s the most effective body part to cushion a high, lofted pass?",
+          "options": {
+            "A": "Chest",
+            "B": "Head",
+            "C": "Thigh",
+            "D": "Foot"
+          },
+          "correctAnswer": "A",
+          "explanation": "Using the chest allows you to absorb force and bring the ball down under control."
+        },
+        {
+          "id": "q2",
+          "prompt": "When passing at speed, which technique improves accuracy?",
+          "options": {
+            "A": "Standing on your toes",
+            "B": "Locking your ankle and foot",
+            "C": "Swinging your arm back",
+            "D": "Pointing your non-kicking foot away from target"
+          },
+          "correctAnswer": "B",
+          "explanation": "A firm, locked ankle gives a flat striking surface for a more accurate pass."
+        },
+        {
+          "id": "q3",
+          "prompt": "In a one-two (“wall pass”), after your first pass you should…",
+          "options": {
+            "A": "Stay stationary",
+            "B": "Run behind the defender",
+            "C": "Run forward into space",
+            "D": "Turn back toward the ball"
+          },
+          "correctAnswer": "C",
+          "explanation": "You “give and go,” creating separation from a defender to receive the return."
+        }
+      ]
+    },
+    {
+      "id": "dribbling_ball_control",
+      "title": "Dribbling & Ball Control",
+      "duration": "10 min",
+      "video": "assets/videos/video_1.mp4",
+      "photo": "https://img.freepik.com/free-photo/happy-football-player-training_23-2147813182.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which move is best for quickly changing direction?",
+          "options": {
+            "A": "Cruyff turn",
+            "B": "Step-over",
+            "C": "Drag back",
+            "D": "Elastico"
+          },
+          "correctAnswer": "C",
+          "explanation": "A drag back (pulling the ball behind your standing foot and turning) is compact and sudden."
+        },
+        {
+          "id": "q2",
+          "prompt": "What’s the main purpose of close-control dribbling?",
+          "options": {
+            "A": "To sprint past opponents",
+            "B": "To make powerful shots",
+            "C": "To maintain possession in tight spaces",
+            "D": "To keep defenders guessing"
+          },
+          "correctAnswer": "C",
+          "explanation": "Close touches help you navigate crowded areas without losing the ball."
+        },
+        {
+          "id": "q3",
+          "prompt": "When performing an inside-outside dribble, you use the…",
+          "options": {
+            "A": "Inside of the foot, then sole",
+            "B": "Inside of the foot, then outside of the same foot",
+            "C": "Outside of the foot, then inside of the other foot",
+            "D": "Sole, then outside of the foot"
+          },
+          "correctAnswer": "B",
+          "explanation": "The inside-outside feints shift the ball laterally to wrong-foot the defender."
+        },
+        {
+          "id": "q4",
+          "prompt": "When performing an inside-outside dribble, you use the…",
+          "options": {
+            "A": "Inside of the foot, then sole",
+            "B": "Inside of the foot, then outside of the same foot",
+            "C": "Outside of the foot, then inside of the other foot",
+            "D": "Sole, then outside of the foot"
+          },
+          "correctAnswer": "B",
+          "explanation": "The inside-outside feints shift the ball laterally to wrong-foot the defender."
+        }
+      ]
+    },
+    {
+      "id": "tactical_awareness",
+      "title": "Tactical Awareness",
+      "duration": "10 min",
+      "video": "assets/videos/video_2.mp4",
+      "photo": "https://img.freepik.com/free-photo/close-up-team-discussing-strategy_23-2148634565.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "What is “zonal marking”?",
+          "options": {
+            "A": "Each defender marks one opponent",
+            "B": "Defenders cover designated areas",
+            "C": "Midfielders stay in their half",
+            "D": "Strikers track back to defend"
+          },
+          "correctAnswer": "B",
+          "explanation": "Instead of man-marking, players guard zones and pick up attackers entering them."
+        },
+        {
+          "id": "q2",
+          "prompt": "In a 4-3-3 formation, the “6” role usually refers to…",
+          "options": {
+            "A": "Central striker",
+            "B": "Defensive midfielder",
+            "C": "Left winger",
+            "D": "Right center-back"
+          },
+          "correctAnswer": "B",
+          "explanation": "The single pivot (“number 6”) shields the back four and recycles possession."
+        },
+        {
+          "id": "q3",
+          "prompt": "Why might a coach use an asymmetric formation?",
+          "options": {
+            "A": "To confuse referees",
+            "B": "To strengthen an overload on one flank",
+            "C": "To save energy",
+            "D": "To increase speed down the center"
+          },
+          "correctAnswer": "B",
+          "explanation": "Asymmetry can create 2-v-1 or 3-v-2 situations on one side."
+        }
+      ]
+    },
+    {
+      "id": "physical_fitness",
+      "title": "Physical Fitness & Conditioning",
+      "duration": "10 min",
+      "video": "assets/videos/video_1.mp4",
+      "photo": "https://img.freepik.com/free-photo/full-shot-kid-training-football_23-2149270946.jpg?ga=GA1.1.1498130931.1734390011&semt=ais_items_boosted&w=740",
+      "questions": [
+        {
+          "id": "q1",
+          "prompt": "Which drill best develops anaerobic endurance?",
+          "options": {
+            "A": "5-minute jog",
+            "B": "100-meter sprints with 30s rest",
+            "C": "Continuous passing rondo",
+            "D": "Stretching routine"
+          },
+          "correctAnswer": "B",
+          "explanation": "Short, intense efforts with brief recovery tax the anaerobic system."
+        },
+        {
+          "id": "q2",
+          "prompt": "What’s the ideal recovery time between maximal sprint efforts in training?",
+          "options": {
+            "A": "15 seconds",
+            "B": "30–60 seconds",
+            "C": "3–5 minutes",
+            "D": "10 minutes"
+          },
+          "correctAnswer": "C",
+          "explanation": "Full recovery restores phosphocreatine, enabling repeated maximal efforts."
+        },
+        {
+          "id": "q3",
+          "prompt": "Which component is NOT part of a dynamic warm-up?",
+          "options": {
+            "A": "Leg swings",
+            "B": "High knees",
+            "C": "Static hamstring stretch held 30s",
+            "D": "Walking lunges"
+          },
+          "correctAnswer": "C",
+          "explanation": "Long static stretches can reduce muscle power; dynamic mobility is preferred pre-game."
+        }
+      ]
+    }
+  ]
+}
