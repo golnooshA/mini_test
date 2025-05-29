@@ -4,6 +4,7 @@ A Flutter application that plays instructional videos and quizzes users on what 
 Users can browse video lessons, watch them with custom playback controls, and take interactive  
 multiple-choice quizzes with instant feedback.
 
+---
 
 ## 🚀 Features
 
@@ -26,6 +27,12 @@ multiple-choice quizzes with instant feedback.
   - Summary page after finishing the quiz
   - Shows a percentage score with a “DONE” check icon
   - Option to close and return to the list
+
+---
+
+## 🎬 Demo
+
+<img src="assets/screens/demo.gif" width="300" alt="App demo" />
 
 ---
 
